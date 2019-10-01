@@ -2,7 +2,7 @@
 
 # heading 1
 
-##heading 2
+## heading 2
 
 <em>emphasize text</em>
 
