@@ -7,3 +7,9 @@
 <em>emphasize text</em>
 
 <b>bold text</b> 
+
+# Class schedule
+
+## What Gets Done When
+
+<b>November 12:</b> Digital storytelling and video games
