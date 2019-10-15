@@ -31,9 +31,20 @@
 <p>"Arabic Programming Language as Eyebeam" -> using Arabic to totally change how code is used and what is recognized as a viable digital language. Fibbonaci function - computes a series of number. Conways Game of Life -> initial configuration of a "universe" that repeats itself, and he managed to get that to appear in Arabic. There are language bias in coding that need to be challenged.</p>
 <h3>Who Run the World?</h3>
 <p>A lot of the early work for computers and coding was done by women. They often had mathematical backgrounds but were still seen as part of the "working class" and therefore not trusted to do the actual computing and information handling. Once computers started taking off and precedence, women were pushed out and men took over their positions because they wanted control over <em>all</em> the processes. Many went and formed their own company but assumed male names so that they would be taken seriously through their correspondance with other companies. There wasn't enough programmers from the male pool of workers, so the British government in the 70s merged their departments in an effort to keep women out still and it ended up irreperably holding them back.</p>
-<p>Ada Lovelace (we're getting into some steam punk stuff, ohhhhhh yeeeeaaaaahhhhh). Babbage created machines to aid in calculations for the military and stuff. Machining technology wasn't sophisticated enough to devise the parts needed for the first early, early form of what a computer could be. Ada was a mathematician and figured out a program to make Babbage's machine work. She is regarded as the very first programmer. She couldn't just to it, had to be regulated to a footnote in order to express her ideas (boooo).</p>
+<p>Ada Lovelace (we're getting into some steam punk stuff, <em>ohhhhhh yeeeeaaaaahhhhh</em>). Babbage created machines to aid in calculations for the military and stuff. Machining technology wasn't sophisticated enough to devise the parts needed for the first early, early form of what a computer could be. Ada was a mathematician and figured out a program to make Babbage's machine work. She is regarded as the very first programmer. She couldn't just to it, had to be regulated to a footnote in order to express her ideas (boooo).</p>
 <p>Programming is still very much seen as a masculine endeavor. Any time there's projects that involve money, then white men often move in on it. Sexism finds its way back into coding and men take on the "important" and "hard" work while women are regulated to things like "front end" coding and design.</p>
 <p>Allen Turring had the initial idea for what a digital computer could be. He was also gay, so in the 50s during the Communist panic, he was put on trial and sentenced to chemical castration. He killed himself a few months afterward. One of the smartest dudes of his generation, but he was still punished and pushed out for being different.</p>
-<h3>Algorithms<h3>
+<h3>Algorithms</h3>
 <p>A recipe for what you're trying to accomplish. Takes information and presents it in a way that's understandable. An Incan quipos was an early form of encoding - represented information in different ways.</p>
 <p>We can understand things that are missing if we have the basics (eg. if y cn rd ths y cn gt a jb). You can lose a lot of information and still get a lot of information across. Information entropy is what became known as a "bit." When you zip files, it throws out information that it doesn't need to reduce its size and then when you unzip it, it pulls information back into the files. 
+<h3>Recap</h3>
+<ul>
+    <li>representing information in least amount of ‘space’</li>
+    <li>circuits to represent logic</li> 
+    <li>turing tapes to represent calculations/algorithms</li>
+    <li>algorithms expressed in higher language ‘code’</li>
+    <li>coding is forgetting: code is a model of the world</li>
+</ul>
+<p>Note that this hasn’t been a history of the internet.</p>
+<p>The history of connection would have to be told in reference to earlier technologies of connection. Each new layer has followed the path dependence of the earlier.</p>
+<p>The geographies of colonialism are written in our digital cyberspaces.</p>
