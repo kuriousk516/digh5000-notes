@@ -26,7 +26,7 @@
 <p>It creates an infinte maze that we can play around with.</p>
 <p>What does coding mean?</p>
 <p>It's an act of translation - creating a language that the computer knows how to manipulate. Functions like English in that we read it left to right, there's a mapping between the relationships between the characters and their meanings. Cutting away fluidity is what made the word "computable." The fluidity was too hard to represent, so it wasn't done. Some people didn't see this as a problem and it became an act of forgetting. We lose a lot of the world that way.</p>
-<h3>Programming is an act of forgetting.<h3>
+<h3>Programming is an act of forgetting.</h3>
 <p>There are specific rhetorics as to what tech we should use and going along with the tagline "it just works" (Steve Jobs). That's why DH becomes such a political, radical act where you're <em>not</em> forgetting, you're bringing up what was forgotten before. We're still constrained in that we use the tools that others built. Some are so enmeshed that they can limit what we can accomplish if we're not aware of the use and history to keep in mind.</p>
 <p>"Arabic Programming Language as Eyebeam" -> using Arabic to totally change how code is used and what is recognized as a viable digital language. Fibbonaci function - computes a series of number. Conways Game of Life -> initial configuration of a "universe" that repeats itself, and he managed to get that to appear in Arabic. There are language bias in coding that need to be challenged.</p>
 <h3>Algorithms<h3>
