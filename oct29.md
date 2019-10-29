@@ -30,6 +30,13 @@ Types of Archives:
 <li>Keeping up with demand</li>
 <li>Managing and maintaing the database and infrastructure</li>
 <li>Removing limits on scalability maintaining the database and infrastructure</li>
+</ul>
 <h3>Corporate Archives in Carleton University - Experience</h3>
 <h3>Preserving Memories of 50,000 Holocaust Survivors and Witnesses</h3>
 <p>The USC Shoah Foundation conducted 100,000 hours of testimony from 50,000 individuals. It requires an intense amount of computing power, constant maintainence, and vigilance to make sure nothing is lost.</p>
+<p>Access to the files is difficult - making film copies would have cost them hundreds of millions of dollars. Making digital copies only takes tens of millions. They use a system called Oracle Storage Tek SL 2800.</p>
+<h3>Library and Archives Canada</h3>
+<p>Fourth largest library in the world, LaAC is responsible for preserving the documentary heritage of Canada for the benefit of present and future generations; to be a source of enduring knowledge accessible to all.</p>
+<h2>Fun Cautionary Tale~</h2>
+<p>AKA: "How <b>NOT</b> to make friends; or the day I killed TUP." Objects stood in for things in the TUP (TIber Valley Project). Shawn was entering data as a newly minted student. The database had a form, and it had a bunch of drop-down menus inside of it. He had a stack of forms to enter the information for, but no options on the drop-down menus. So he "opened the hood." He went under and added the options that were missing and cleared his backlogs. But since it had nowhere to cascade through, it fed through and corrupted the existing data. He set the project back by three months (RIP). When you don't know what you're doing, ask for help! Don't experiment on the live project site!</p>
+<p>Now, let's practice working on a digital archive. 
